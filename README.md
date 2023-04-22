@@ -26,6 +26,7 @@ The report comprises of 3 pages:
 - Homepage
 - Customers Orders
 - Sales and Profits
+**You can interact with the report here** (In progress)
 
 ## Homepage
 ![](Homepage.png)
@@ -35,3 +36,13 @@ The report comprises of 3 pages:
 
 ## Sales and Profits
 ![](Customer_Sales_and_Profit.png)
+
+# Analysis
+![](Average_monhly_ordered.png)
+![](Busiest_hours_of_the_day.png)
+![](Dip_and_peek.png)
+![](Product_group_profit_margin.png)
+![](Top_customer.png)
+![](Top_10_most_profitable_products.png)
+
+
