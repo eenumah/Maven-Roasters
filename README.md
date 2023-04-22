@@ -43,19 +43,19 @@ The report comprises of 3 pages:
 
 
 
-# Analysis and Recommendations
+# Analysis
 Maven Roasters comprises of 1 warehouse and 3 retail stores located in Newyork with 5,198 customers served by 55 employees ranging from Coffe wranglers, Roasters and Store managers with 88 blend of products across 9 different product categories.
 
 
 
 ### Revenue and Profit
-Analysis shows high profitability in the current year at 90% vs last year and a profit margin ranging from 61% to 83% (74% on average) across a variety of product groups, with Whole bean/Tea being the highest followed by Merchandise. Top 3 most profitable products (Both in terms of profits generated and number of orders by customers) are Coffee, Tea and Drinking Chocolate with 75% profit margin under the Beverages product group.
+Analysis shows high profitability in the current year at 90% vs last year and a profit margin ranging from 61% to 83% (74% on average) across a variety of product groups, with **Whole bean/Tea being the highest followed by Merchandise.** Top 3 most profitable products are Coffee, Tea and Drinking Chocolate with 75% profit margin under the Beverages product group.
 
 ![](Product_group_profit_margin.png)
 
 
 
-Further analysis revealed consistent yearly dip in February (If this is due to weather conditions at the beginnning of the year, then stock levels can be controlled to avoid holding excess inventory) and peek in November with respect to revenue. Comparing revenues generated for February 2017 ($139k) and February 2018 ($149k), we noticed a 7% increase meanwhile about 67% increase between 2018 and 2019 February ($232k-current year) was recorded. If this trend continues, November could peek with over 20% of February 2019 sales revenue.
+Further analysis revealed consistent yearly dip in February and peek in November with respect to revenue. Comparing revenues generated for February 2017 ($139k) and February 2018 ($149k), we noticed a 7% increase meanwhile about 67% increase between 2018 and 2019 February ($232k-current year) was recorded. If this trend continues, November could peek with over 20% of February 2019 sales revenue. 
 
 ![](Dip_and_peek.png)
 
@@ -78,9 +78,18 @@ With 2019                          | Without 2019
 
 
 
-Customers with highest orders are predominantly females with 22%, although a larger portion of customer orders at 67% did not specify gender. An increased sales and profits can be recorded if more female appealing products and adverts are made. Note that Top 4 customers are females.
+Customers with highest orders are predominantly females with 22%, although a larger portion of customer orders at 67% did not specify gender. 
+**Note that Top 4 customers are females.**
 
 ![](Top_customer.png)
 
 
 
+# Recommendations
+- If the dip in february is due to weather conditions at the beginnning of the year, then stock levels can be controlled to avoid holding excess inventory.
+- An increased sales and profits can be recorded if more female appealing products and adverts are made.
+- Encouraging customers to reveal gender can help with decisions on adverts and tailor made products appealing to specific gender.
+
+---
+
+# This was really fun for me, thank you for getting to the end!
