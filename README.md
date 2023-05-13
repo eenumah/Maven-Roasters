@@ -8,7 +8,7 @@ All I’ve been given is a collection of raw csv files containing sales and inve
 The process flow in arriving at the insights includes:
 - Importing the csv datasets into Power BI.
 - Exploring the different variables, datatypes and relationships contained in the dataset.
-- Not much was done in transforming the data as it came in already cleaned.
+- Not much was done in transforming (ETL) the data as it came in already cleaned.
 - Building relationship between the different tables and writing DAX to generate extra information about the data.
 - Summarizing these information into visualizations and reports of findings with recommendations.
 ---
