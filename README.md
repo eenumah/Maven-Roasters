@@ -29,7 +29,7 @@ The report comprises of 3 pages:
 - Sales and Profits
 - Customers Orders
 
-**You can interact with the report here** (In progress)
+
 
 ## Homepage
 ![](Homepage.png)
